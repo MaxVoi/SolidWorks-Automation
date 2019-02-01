@@ -1,0 +1,13 @@
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\bin\Debug\SW_Macro_Quad.exe.config
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\bin\Debug\SW_Macro_Quad.exe
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\bin\Debug\SW_Macro_Quad.pdb
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\obj\Debug\Interop.SldWorks.dll
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\obj\Debug\Interop.SwConst.dll
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\obj\Debug\SW_Macro_Quad.csproj.ResolveComReference.cache
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\obj\Debug\SW_Macro_Quad.Form1.resources
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\obj\Debug\SW_Macro_Quad.Properties.Resources.resources
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\obj\Debug\SW_Macro_Quad.csproj.GenerateResource.cache
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\obj\Debug\SW_Macro_Quad.csproj.CoreCompileInputs.cache
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\obj\Debug\SW_Macro_Quad.exe
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\obj\Debug\SW_Macro_Quad.pdb
+C:\Users\Maxs\source\repos\SW_Macro_Quad\SW_Macro_Quad\obj\Debug\SW_Macro_Quad.csprojAssemblyReference.cache
